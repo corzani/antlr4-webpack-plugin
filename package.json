@@ -1,0 +1,32 @@
+{
+  "name": "antlr4-webpack-plugin",
+  "description": "Webpack plugin for antlr4",
+  "version": "0.0.1",
+  "author": {
+    "name": "Jacopo Corzani",
+    "email": "corzani@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/corzani/antlr4-webpack-plugin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/corzani/antlr4-webpack-plugin/issues"
+  },
+  "licenses": [
+    {
+      "type": "BSD"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "devDependencies": {
+    "webpack": "^1.12.13"
+  },
+  "keywords": [
+    "antlr",
+    "antlr4",
+    "webpack"
+  ]
+}
